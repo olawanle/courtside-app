@@ -1,0 +1,13 @@
+{
+  "name": "courtside-app",
+  "displayName": "CourtSide Tennis",
+  "expo": {
+    "name": "CourtSide Tennis",
+    "slug": "courtside-app",
+    "version": "0.1.0",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.courtside.tennis"
+    }
+  }
+}
